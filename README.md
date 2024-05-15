@@ -1,7 +1,7 @@
 <!-- Imagem referente ao HTML -->
  <img src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Is-HTML-a-Programming-Language.jpg" width="50%">
 
-# GUILHERME PEREIRA FONSECA - PROGRAMADOR WEB
+# GUILHERME PEREIRA FONSECA - TÉCNICO EM INFORMATICA/PROGRAMADOR
 
 ## Sobre mim:
 - Tenho 19 anos, estou cursando a Area de **TI**
