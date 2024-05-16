@@ -3,8 +3,6 @@
 
 # GUILHERME PEREIRA FONSECA - TÉCNICO EM INFORMATICA/PROGRAMADOR
 
-<font size="8">
-
 ## Sobre mim:
 - Tenho 19 anos, estou cursando a Area de **TI**
 
@@ -14,7 +12,11 @@
 - Digitação [*FINALIZEI*]
 - Programação WEB (**20 meses para acabar**)
 
-</font>
+ ## LISTA DE CONCLUSÃO DE CURSOS:
+- [ ] Manutenção e Suporte Na Informática[^1]
+- [ ] Informática/Tecnologia [^2]
+- [x] Digitação [^2.1]
+- [ ] Programação WEB [^2.2]
 
 ## REDES SOCIAIS
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="1.5%">  [FACEBOOK](https://www.facebook.com/guilherme.fonteseca.3?locale=pt_BR)
@@ -27,3 +29,7 @@
 
 ## CONTATOS
 - <strong>E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
+[^1]: **Etec Dr. José Luiz Viana Coutinho**
+[^2]: **Via certa**
+[^2.1]: **Via certa**
+[^2.2]: **Via certa**
