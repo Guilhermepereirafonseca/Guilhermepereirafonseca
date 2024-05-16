@@ -22,4 +22,4 @@
 <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="1.5%">  [LINKEDIN](https://www.linkedin.com/in/guilherme-pereira-fonseca-8848502a8/)
 
 ## CONTATOS
-- E-MAIL: guilhermepereirafonseca305@gmail.com
+- <strong>E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
