@@ -5,8 +5,8 @@
 
 ## Sobre mim:
 - Tenho 19 anos, estou cursando a Area de **TI**
-- Acabebi o Ensino Médio na  [Escola Carlos de Arnaldo Silva](https://www.facebook.com/profile.php?id=100009933765093)
-- Ainda estou desempregado buscando aprendizagem e conhecimento, para entrar no mercado de trabalho que minha competencia se qualificar
+- Acabebi o Ensino Médio.
+- estou buscando experiênciaa profissionais que possam aplicar meus conhecimentos nelas
 
 ## Cursos[AINDA CURSANDO]
 - Manutenção e Suporte na Informática (acabo esse ano[2024])
