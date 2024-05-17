@@ -19,12 +19,14 @@
 - Informatica/Tecnologia (acabo em **agosto**)
 - Digitação [*FINALIZEI*]
 - Programação WEB (**20 meses para acabar**)
+- Photoshop (EAD só de *sexta-feira*)
 
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
 - [ ] Manutenção e Suporte na Informática
 - [ ] Informática/Tecnologia 
 - [x] Digitação 
 - [ ] Programação WEB
+- [ ] Photoshop
 ## 🔗 REDES SOCIAIS
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width="1.5%">  [FACEBOOK](https://www.facebook.com/guilherme.fonteseca.3?locale=pt_BR)
 <br>
