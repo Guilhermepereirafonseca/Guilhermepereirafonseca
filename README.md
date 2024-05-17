@@ -10,13 +10,13 @@
 # GUILHERME PEREIRA FONSECA - TÉCNICO EM INFORMATICA/PROGRAMADOR
 
 ## ✏️ Sobre mim:
-- Tenho 19 anos, estou cursando a Area de **TI**
-- Acabebi o Ensino Médio.
-- estou buscando experiênciaa profissionais que possam aplicar meus conhecimentos nelas
+- Tenho 19 anos, estou cursando a Area de **TI**.
+- Acabei o Ensino Médio.
+- estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos nelas.
 
 ## 📚 Cursos
 - Manutenção e Suporte na Informática (acabo esse ano[2024])
-- Informatica/Tecnologia (acabo em **agosto**)
+- Informática/Tecnologia (acabo em **agosto**)
 - Digitação [*FINALIZEI*]
 - Programação WEB (**20 meses para acabar**)
 - Photoshop (EAD só de *sexta-feira*)
