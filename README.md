@@ -21,7 +21,7 @@
 - Programação WEB (**20 meses para acabar**)
 
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
-- [ ] Manutenção e Suporte Na Informática
+- [ ] Manutenção e Suporte na Informática
 - [ ] Informática/Tecnologia 
 - [x] Digitação 
 - [ ] Programação WEB
