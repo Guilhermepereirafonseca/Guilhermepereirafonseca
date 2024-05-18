@@ -9,7 +9,8 @@
 <!-- Imagem referente ao HTML -->
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" width="100%">
 
-# GUILHERME PEREIRA FONSECA - TÉCNICO EM INFORMATICA/PROGRAMADOR
+# GUILHERME PEREIRA FONSECA
+## TÉCNICO EM INFORMÁTICA, PROGRAMADOR, DESIGNER.
 
 ## ✏️ Sobre mim:
 - Tenho 19 anos, estou cursando a Area de **TI**.
@@ -61,4 +62,4 @@
 </div>
 
 ## 📞 CONTATOS
-- <strong>E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
+- <strong> E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
