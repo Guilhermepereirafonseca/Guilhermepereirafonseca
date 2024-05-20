@@ -13,14 +13,14 @@
 
 ## ✏️ Sobre mim:
 - Tenho 19 anos, estou cursando a Area de **TI**.
-- Acabei o Ensino Médio.
-- estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos nelas.
+- Ensino Médio Completo.
+- estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
 
 ## 📚 Cursos
 - Manutenção e Suporte na Informática (acabo esse ano[2024])
 - Informática/Tecnologia (acabo em **agosto**)
-- Digitação [*FINALIZEI*]
-- Programação WEB (**20 meses para acabar**)
+- Digitação
+- Programação WEB
 - Photoshop (EAD só de *sexta-feira*)
 
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
