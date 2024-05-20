@@ -1,6 +1,5 @@
-
 <div align="center">
-
+    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guilhermepereirafonseca&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 </div>
