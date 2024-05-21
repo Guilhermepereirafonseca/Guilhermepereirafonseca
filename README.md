@@ -66,7 +66,3 @@
 
 ## 📞 CONTATOS
 - <strong> E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
-
-<img src="https://raw.githubusercontent.com/Guilhermepereirafonseca/Guilhermepereirafonseca/output/snake.svg" alt="Snake animation" />
-
-###
