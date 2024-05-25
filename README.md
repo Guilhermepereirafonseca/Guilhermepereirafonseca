@@ -19,6 +19,7 @@
 - Tenho 19 anos, estou cursando a Area de **TI**.
 - Ensino Médio Completo.
 - estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
+- Adoro estudar a área da programação
 
 ## 📚 Cursos
 - Manutenção e Suporte na Informática (acabo esse ano[2024])
