@@ -43,6 +43,8 @@
 - [ ] Programação WEB
 - [ ] Photoshop
 
+[🧑‍🎓Para Saber Mais](https://github.com/Guilhermepereirafonseca/Cursos/tree/main)
+
 ## O QUE EU SEI:
 
 <div align="left">
