@@ -36,7 +36,7 @@
 - [x] Scratch (Alura)
 - [ ] Manutenção e Suporte na Informática
 - [ ] Informática/Tecnologia
-- [x] Word, Powerpoin, Excel (Via Online)
+- [x] Word, Powerpoint, Excel (Via Online)
 - [x] Windows 10 (Via Online)
 - [x] Internet (Via Online)
 - [x] Digitação 
