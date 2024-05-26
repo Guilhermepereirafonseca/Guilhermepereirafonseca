@@ -25,7 +25,7 @@
 - Scratch (Alura)
 - Manutenção e Suporte na Informática (acabo esse ano[2024])
 - Informática/Tecnologia (acabo em **agosto**)
-- Word, Powerpoin, Excel (Via Online)
+- Word, Powerpoint, Excel (Via Online)
 - Windows 10 (Via Online)
 - Internet (Via Online)
 - Digitação
