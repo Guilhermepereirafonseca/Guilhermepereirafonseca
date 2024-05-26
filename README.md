@@ -22,15 +22,23 @@
 - Adoro estudar a área da programação
 
 ## 📚 Cursos
+- Scratch (Alura)
 - Manutenção e Suporte na Informática (acabo esse ano[2024])
 - Informática/Tecnologia (acabo em **agosto**)
+- Word, Powerpoin, Excel (Via Online)
+- Windows 10 (Via Online)
+- Internet (Via Online)
 - Digitação
 - Programação WEB
 - Photoshop (EAD só de *sexta-feira*)
 
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
+- [x] Scratch (Alura)
 - [ ] Manutenção e Suporte na Informática
-- [ ] Informática/Tecnologia 
+- [ ] Informática/Tecnologia
+- [x] Word, Powerpoin, Excel (Via Online)
+- [x] Windows 10 (Via Online)
+- [x] Internet (Via Online)
 - [x] Digitação 
 - [ ] Programação WEB
 - [ ] Photoshop
