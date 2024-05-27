@@ -23,14 +23,14 @@
 
 ## 📚 Cursos
 - Scratch (Alura)
-- Manutenção e Suporte na Informática (acabo esse ano[2024])
-- Informática/Tecnologia (acabo em **agosto**)
+- Manutenção e Suporte na Informática (ETEC) (acabo esse ano[2024])
+- Informática/Tecnologia (Via Certa) (acabo em **agosto**)
 - Word, Powerpoint, Excel (Via Online)
 - Windows 10 (Via Online)
 - Internet (Via Online)
-- Digitação
-- Programação WEB
-- Photoshop (EAD só de *sexta-feira*)
+- Digitação (Via Certa)
+- Programação WEB (Via Certa)
+- Photoshop (BYTE CURSOS) (EAD só de *sexta-feira*) 
 
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
 - [x] Scratch (Alura)
