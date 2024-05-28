@@ -81,5 +81,5 @@
 <img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="15px">  [Instagram](https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/)
 
 
-## 📞 CONTATOS
+## 📞 CONTATOS/
 - <strong> E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
