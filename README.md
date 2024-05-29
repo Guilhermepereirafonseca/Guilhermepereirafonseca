@@ -77,7 +77,7 @@
 
 ## REDES SOCIAIS:
 
-<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="15px"> [Linkedin](https://www.linkedin.com/in/guilherme-pereira-fonseca-8848502a8/) <br>
+<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank" width="15px"> [Linkedin](https://www.linkedin.com/in/guilherme-pereira-fonseca-8848502a8/) <br>
 <img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="15px">  [Instagram](https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/)
 
 
