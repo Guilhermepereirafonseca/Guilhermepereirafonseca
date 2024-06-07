@@ -41,7 +41,7 @@
 - [x] Internet (Via Online)
 - [x] Digitação 
 - [ ] Programação WEB
-- [ ] Photoshop
+- [x] Photoshop
 
 [🧑‍🎓Para Saber Mais](https://github.com/Guilhermepereirafonseca/Cursos/tree/main)
 
