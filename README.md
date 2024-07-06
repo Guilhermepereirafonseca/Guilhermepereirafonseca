@@ -83,3 +83,7 @@
 
 ## 📞 CONTATOS/
 - <strong> E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
+
+Diagrama (Relacionais)
+Estrutura/Desenho/Tela (Teoria)
+Banco de Dados
