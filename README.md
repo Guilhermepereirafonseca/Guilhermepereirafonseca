@@ -19,7 +19,7 @@
 - Tenho 19 anos, estou cursando a Area de **TI**.
 - Ensino Médio Completo.
 - estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
-- Adoro estudar a área da programação.
+- Estou sempre buscando conhecimento pratico e teorico na area da programação.
 
 ## 📚 Cursos
 - Scratch (Alura)
@@ -78,8 +78,4 @@
 ## 🔗 REDES SOCIAIS:
 
 <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="15px"> [Linkedin](https://www.linkedin.com/in/guilherme-pereira-fonseca-8848502a8/) <br>
-<img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="15px">  [Instagram](https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/)
-
-
-## 📞 CONTATOS/
-- <strong> E-MAIL: guilhermepereirafonseca305@gmail.com </strong>
+<img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="15px">  [Instagram](https://www.instagram.com/guilherme_pereira_fonseca19/)
