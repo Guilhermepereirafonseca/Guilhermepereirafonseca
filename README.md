@@ -18,7 +18,9 @@
 - Tenho 19 anos, estou cursando a Area de **TI**.
 - Ensino Médio Completo.
 - estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
-- Estou sempre buscando conhecimento pratico e teorico na area da programação.
+- Estou sempre buscando conhecimento pratico e teorico na area da programação. <br>
+
+👨‍🎓 [Portifolio - Google Docs](https://docs.google.com/document/d/19S1NgTceDtbC6OO91jgExooI6mhwmsCGuDS188V8b_g/edit?usp=sharing)
 
 ## 📚 Cursos
 - Scratch (Alura)
