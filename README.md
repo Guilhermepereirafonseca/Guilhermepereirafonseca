@@ -20,7 +20,7 @@
 - estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
 - Estou sempre buscando conhecimento pratico e teorico na area da programação. <br>
 
-👨‍🎓 [Portfólio - Google Docs](https://docs.google.com/document/d/19S1NgTceDtbC6OO91jgExooI6mhwmsCGuDS188V8b_g/edit?usp=sharing)
+👨‍🎓 [Portfólio - Google Docs](https://docs.google.com/document/d/19S1NgTceDtbC6OO91jgExooI6mhwmsCGuDS188V8b_g/edit?usp=sharing "CLIQUE AQUI")
 
 ## 📚 Cursos
 - Scratch (Alura)
@@ -44,7 +44,7 @@
 - [ ] Programação WEB
 - [x] Photoshop
 
-🧑‍🎓[Para saber mais sobre minhas Hard Skills](https://github.com/Guilhermepereirafonseca/Cursos/tree/main)
+🧑‍🎓[Para saber mais sobre minhas Hard Skills](https://github.com/Guilhermepereirafonseca/Cursos/tree/main "CLIQUE AQUI")
 
 ## O QUE EU SEI:
 
@@ -78,7 +78,7 @@
 
 ## 🔗 REDES SOCIAIS:
 
-<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="1.5%"> [Linkedin](https://www.linkedin.com/in/guilherme-pereira-fonseca-8848502a8/) <br>
-<img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="1.5%">  [Instagram](https://www.instagram.com/guilherme_pereira_fonseca19/) <br>
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="1.5%"> [Youtube](https://www.youtube.com/@guilhermepereirafonseca) <br>
-<img src="https://www.woodridgelibrary.org/sites/default/files/2022-10/logo%20tr.png" width="1.5%"> [Tinkercad](https://www.tinkercad.com/users/8WfUpoHtqwo?type=circuits)
+<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="1.5%"> [Linkedin](https://www.linkedin.com/in/guilherme-pereira-fonseca-8848502a8/ "Linkedin") <br>
+<img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="1.5%">  [Instagram](https://www.instagram.com/guilherme_pereira_fonseca19/ "Instagram") <br>
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="1.5%"> [Youtube](https://www.youtube.com/@guilhermepereirafonseca "Youtube") <br>
+<img src="https://www.woodridgelibrary.org/sites/default/files/2022-10/logo%20tr.png" width="1.5%"> [Tinkercad](https://www.tinkercad.com/users/8WfUpoHtqwo?type=circuits "Tinkercad")
