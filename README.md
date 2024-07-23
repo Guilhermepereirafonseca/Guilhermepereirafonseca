@@ -23,15 +23,15 @@
 👨‍🎓 [Portfólio - Google Docs](https://docs.google.com/document/d/19S1NgTceDtbC6OO91jgExooI6mhwmsCGuDS188V8b_g/edit?usp=sharing "CLIQUE AQUI")
 
 ## 📚 Cursos
-- Scratch (Alura)
-- Manutenção e Suporte na Informática (ETEC) (acabo esse ano[2024])
-- Informática/Tecnologia (Via Certa) (acabo em **agosto**)
-- Word, Powerpoint, Excel (Via Online)
-- Windows 10 (Via Online)
-- Internet (Via Online)
-- Digitação (Via Certa)
-- Programação WEB (Via Certa)
-- Photoshop (BYTE CURSOS) (EAD só de *sexta-feira*) 
+- Scratch (**Alura**)
+- Manutenção e Suporte na Informática (**ETEC**) (acabo esse ano[2024])
+- Informática/Tecnologia (**Via Certa**) (acabo em **agosto**)
+- Word, Powerpoint, Excel (**Via Online**)
+- Windows 10 (**Via Online**)
+- Internet (**Via Online**)
+- Digitação (**Via Certa**)
+- Programação WEB (**Via Certa**)
+- Photoshop (**BYTE CURSOS**) (EAD só de *sexta-feira*) 
 
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
 - [x] Scratch (Alura)
