@@ -44,7 +44,7 @@
 - [ ] Programação WEB
 - [x] Photoshop
 
-🧑‍🎓[Para saber mais sobre minhas Hard Skills](https://github.com/Guilhermepereirafonseca/Cursos/tree/main "CLIQUE AQUI")
+📘 [Meus Certificados](https://drive.google.com/drive/folders/1gdK4p-qCtNqafj0zO5z7vXcp1G7DjHWe?usp=drive_link "CLIQUE AQUI")
 
 ## O QUE EU SEI:
 
