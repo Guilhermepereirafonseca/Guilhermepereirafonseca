@@ -16,35 +16,54 @@
 
 ## ✏️ Sobre mim:
 - Tenho 19 anos, estou cursando a Area de **TI**.
+  
 - Ensino Médio Completo.
+  
 - estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
+
 - Estou sempre buscando conhecimento pratico e teorico na area da programação. <br>
 
 👨‍🎓 [Portfólio - Google Docs](https://docs.google.com/document/d/19S1NgTceDtbC6OO91jgExooI6mhwmsCGuDS188V8b_g/edit?usp=sharing "CLIQUE AQUI")
 
 ## 📚 Cursos
 - Scratch (**Alura**)
+
 - Manutenção e Suporte na Informática (**ETEC**) (acabo esse ano[2024])
+
 - Informática/Tecnologia (**Via Certa**) (acabo em **agosto**)
+
 - Word, Powerpoint, Excel (**Via Online**)
+
 - Windows 10 (**Via Online**)
+
 - Internet (**Via Online**)
+
 - Digitação (**Via Certa**)
+
 - Programação WEB (**Via Certa**)
+
 - Photoshop (**BYTE CURSOS**) (EAD só de *sexta-feira*) 
 
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
 - [x] Scratch (Alura)
+
 - [ ] Manutenção e Suporte na Informática
+    
 - [ ] Informática/Tecnologia
+    
 - [x] Word, Powerpoint, Excel (Via Online)
+    
 - [x] Windows 10 (Via Online)
+
 - [x] Internet (Via Online)
-- [x] Digitação 
+
+- [x] Digitação
+
 - [ ] Programação WEB
+
 - [x] Photoshop
 
-📘 [Meus Certificados](https://drive.google.com/drive/folders/1gdK4p-qCtNqafj0zO5z7vXcp1G7DjHWe?usp=drive_link "CLIQUE AQUI")
+📘 [Meus Certificados](https://drive.google.com/drive/folders/1gdK4p-qCtNqafj0zO5z7vXcp1G7DjHWe?usp=drive_link "CLIQUE AQUI") <br>
 
 ## O QUE EU SEI:
 
