@@ -1,15 +1,16 @@
 <div align="center">
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guilhermepereirafonseca&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guilhermepereirafonseca&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) <br>
 
-</div>
+</div> <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilhermepereirafonseca&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilhermepereirafonseca&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> <br>
+</div> <br>
 
 <!-- Imagem referente ao HTML -->
-<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" width="100%">
+
+<img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" width="100%"> <br>
 
 # GUILHERME PEREIRA FONSECA
 ## TÉCNICO EM INFORMÁTICA, PROGRAMADOR, DESIGNER.
