@@ -20,7 +20,7 @@
   
 - Ensino Médio Completo.
   
-- estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
+- Estou buscando experiênciaa profissionais que eu possa aplicar meus conhecimentos.
 
 - Estou sempre buscando conhecimento pratico e teorico na area da programação. <br>
 
