@@ -101,7 +101,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="1.5%"> [Linkedin](https://www.linkedin.com/in/guilhermepereirafonseca "Linkedin") <br>
 
-<img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="1.5%">  [Instagram](https://www.instagram.com/guilherme_pereira_fonseca19/ "Instagram") <br>
+<img src="https://imagepng.org/instagram-icone-icon/instagram-icone-icon-2/" width="1.5%">  [Instagram](https://www.instagram.com/_guilhermepereirafonseca/ "Instagram") <br>
 
 <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="1.5%"> [Youtube](https://www.youtube.com/@guilhermepereirafonseca "Youtube") <br>
 
