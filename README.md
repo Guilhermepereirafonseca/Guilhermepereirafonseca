@@ -49,9 +49,9 @@
  ## ✔️ LISTA DE CONCLUSÃO DE CURSOS:
 - [x] Scratch (Alura)
 
-- [ ] Manutenção e Suporte na Informática
+- [X] Manutenção e Suporte na Informática
     
-- [ ] Informática/Tecnologia
+- [x] Informática/Tecnologia
     
 - [x] Word, Powerpoint, Excel (Via Online)
     
