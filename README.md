@@ -24,7 +24,7 @@
 
 - Estou sempre buscando conhecimento pratico e teorico na area da programação. <br>
 
-👨‍🎓 [Portfólio - Google Docs](https://docs.google.com/document/d/19S1NgTceDtbC6OO91jgExooI6mhwmsCGuDS188V8b_g/edit?usp=sharing "CLIQUE AQUI") <br>
+👨‍🎓 [Portfólio - Google Docs](https://docs.google.com/document/d/1cgvmcjyNUIztbR0Y_eYJXdqvZzwkf1NM/edit?usp=sharing&ouid=103618992777979327505&rtpof=true&sd=true "CLIQUE AQUI") <br>
 📓 [Notion - De uma Olhada no meus Estudos :)](https://www.notion.so/Meu-Dashboard-14868728bf3680c49eabe680c621e198?pvs=4 "CLIQUE AQUI")
 
 ## 📚 Cursos
