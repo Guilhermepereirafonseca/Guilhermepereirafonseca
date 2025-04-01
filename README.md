@@ -1,6 +1,6 @@
 # Seja bem-vindo 👋
 
-<strong>Desenvolvedor Full Stack, Técnico em T.I</strong>
+<h2><strong>Desenvolvedor Full Stack, Técnico em T.I</strong></h2>
 <br>
 
 <p align="justtify">Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Durante minha trajetória, tive contato com diversas linguagens e frameworks, sempre buscando aplicar o conhecimento na prática.</p>
@@ -40,8 +40,8 @@
 
 ## Redes Sociais
 <div align="left">
-    <a href="www.linkedin.com/in/guilhermepereirafonseca"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="8%">
-      <a href="https://www.instagram.com/_guilhermepereirafonseca/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="8%">
+    <a href="www.linkedin.com/in/guilhermepereirafonseca"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="8%"></a>
+      <a href="https://www.instagram.com/_guilhermepereirafonseca/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="8%"></a>
 </div>
 
 <div align="center">
