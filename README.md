@@ -1,7 +1,6 @@
 # Seja bem-vindo 👋
 
 <h2><strong>Desenvolvedor Full Stack, Técnico em T.I</strong></h2>
-<br>
 
 <p align="justtify">Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Durante minha trajetória, tive contato com diversas linguagens e frameworks, sempre buscando aplicar o conhecimento na prática.</p>
 
