@@ -33,12 +33,6 @@
 </div>
 
 <div align="center">
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guilhermepereirafonseca&theme=dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) <br>
-
-</div> <br>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilhermepereirafonseca&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> <br>
 </div> <br>
 
