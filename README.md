@@ -18,24 +18,13 @@
 
 ## Tecnologias
 
-### Front-end
-- HTML
-- CSS
-- JAVASCRIPT
-- REACJS
-- WINDOWS FORMS
-- BOOTSTRAP
-- MARKDOWN
-- LATEX
+### Linguagens
 
-### Back-end
-- C
-- C++
-- C#
-- PYTHON
-- LUA
-- SQL EXPRESS SERVER
-- POSTGRESQL
+![linguagens](https://skillicons.dev/icons?i=html,css,md,js,git,github,c,cs,cpp,py,powershell,bash)
+
+### Conhecimento em:
+
+![linguagens](https://skillicons.dev/icons?i=windows,linux,vscode,visualstudio,gmail,dotnet)
 
 ## Redes Sociais
 <div align="left">
