@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&width=435&lines=Seja+Bem-Vindo(a)" alt="Typing SVG" /></a>
 
-## Dsenvolvedor Full Stack, Técnico em T.I
+## Desenvolvedor Full Stack, Técnico em T.I
 
 <p align="justtify">Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Durante minha trajetória, tive contato com diversas linguagens e frameworks, sempre buscando aplicar o conhecimento na prática.</p>
 
