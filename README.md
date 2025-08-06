@@ -28,8 +28,7 @@
 
 ## Redes Sociais
 <div align="left">
-    <a href="www.linkedin.com/in/guilhermepereirafonseca"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="8%"></a>
-      <a href="https://www.instagram.com/_guilhermepereirafonseca/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="8%"></a>
+      <a href="https://www.instagram.com/prof.guilhermepf/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" width="8%"></a>
 </div>
 
 <div align="center">
